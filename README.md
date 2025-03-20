@@ -15,18 +15,31 @@ modulos:
 3.Almacenamiento de información y datos previos para llevar el registro
 
 Cronograma:
+
 semana 1 (20/03-27/03)
+
   *Acceder a la camara del dispositivo
-semana 2 (27/03-03/04)
-  *Acceder a la sensibilidad de rotación del dispositvo y calibrar la aplicación
-semana 3 (03/04-10/04)
-  *Lograr tomar medidas de altura gracias a la camara y rotación del dispositivo
-semana 4 (10/04-17/04)
-  *Implementar una base de datos con la información necesaria para así con regla de 3 hallar el peso en kilogramos del forraje
-semana 5 (17/04-24/04)
-  *Implementar una pestaña o apartado la cual almacena las ultimas mediciones tomadas (aproximadamente de 30 a 100)
-semana 6 (24/04-01/05)
-  *Implementar un menú más limpio o agradable al iniciar la apicación
-semana 7 (01/05-08/05)
-  *Presentación de la aplicación completa sin fallos
   
+semana 2 (27/03-03/04)
+
+  *Acceder a la sensibilidad de rotación del dispositvo y calibrar la aplicación
+  
+semana 3 (03/04-10/04)
+
+  *Lograr tomar medidas de altura gracias a la camara y rotación del dispositivo
+  
+semana 4 (10/04-17/04)
+
+  *Implementar una base de datos con la información necesaria para así con regla de 3 hallar el peso en kilogramos del forraje
+  
+semana 5 (17/04-24/04)
+
+  *Implementar una pestaña o apartado la cual almacena las ultimas mediciones tomadas (aproximadamente de 30 a 100)
+  
+semana 6 (24/04-01/05)
+
+  *Implementar un menú más limpio o agradable al iniciar la apicación
+  
+semana 7 (01/05-08/05)
+
+  *Presentación de la aplicación completa sin fallos
